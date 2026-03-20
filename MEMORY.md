@@ -5,6 +5,7 @@
 - The user wants the assistant to remember important conversation content across sessions as much as possible by writing durable notes to local memory files and reloading them in future sessions.
 - The user values continuity and expects the assistant to check saved memory before answering questions about prior context.
 - The user wants the assistant to keep remembering ongoing requirements and step-by-step context continuously until the user explicitly says it is no longer needed.
+- The user wants the assistant to remember the content of today's conversations so that future sessions can resume directly without re-establishing context.
 - All project roots must maintain a `CHANGELOG.md` version-iteration document.
 - Every changelog version entry must include version number, date, and change summary.
 - The difference for each version must be described with a table including: changed item, old behavior, new behavior, and reason for change.
